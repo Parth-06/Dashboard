@@ -1,0 +1,18 @@
+.logout {
+  width: 100vw;
+  background-color: #131b2d;
+  text-align: center;
+}
+
+.logout_btn {
+  margin-top: 10rem;
+  text-align: center;
+  width: 15rem;
+  height: 2.7rem;
+  cursor: pointer;
+  background-color: #57a697;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  font-size: 20px;
+}

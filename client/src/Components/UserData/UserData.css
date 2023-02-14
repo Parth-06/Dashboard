@@ -1,0 +1,25 @@
+.userdata {
+  width: 100vw;
+  background-color: #131b2d;
+  color: white;
+}
+
+.userdata li {
+  color: white;
+}
+
+.userdata_table {
+  margin-top: 1rem;
+}
+.userdata h1 {
+  color: white;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.table_text {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

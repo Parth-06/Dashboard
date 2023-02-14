@@ -1,0 +1,88 @@
+.upload {
+  background-color: #131b2d;
+  width: 100vw;
+  text-align: center;
+  overflow: scroll;
+}
+
+.upload_area {
+  width: 900px;
+  height: 500px;
+  border: 1px solid white;
+  margin: auto;
+  margin-top: 3rem;
+  border-style: dashed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f2a40;
+  border-radius: 10px;
+  flex-direction: column;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.custom-file-upload {
+  /* border: 1px solid #ccc; */
+  display: inline-block;
+  /* padding: 6px 12px; */
+  cursor: pointer;
+}
+
+.fa-smile {
+  color: white;
+}
+
+.browse {
+  background-color: #57a697;
+  width: 150px;
+  border-radius: 20px;
+  height: 35px;
+}
+
+.browse h3 {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding-top: 2px;
+  font-weight: 500;
+}
+
+.upload_area p {
+  color: white;
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+.upload_btn {
+  text-align: center;
+  margin: auto;
+  width: 15rem;
+  height: 2.7rem;
+  margin-top: 2rem;
+  cursor: pointer;
+  background-color: #57a697;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  font-size: 20px;
+}
+
+.uplodedfile_name {
+  color: white;
+  margin-bottom: 2rem;
+  font-size: 20px;
+}
+
+.upload_Entries {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.upload_Entries h1 {
+  color: white;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}

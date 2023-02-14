@@ -1,0 +1,31 @@
+.home {
+  background-color: #131b2d;
+  width: 100vw;
+}
+
+.home h1 {
+  color: white;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.home p {
+  color: #57a697;
+  margin-left: 20px;
+  margin-top: 4px;
+}
+
+@media only screen and (max-width: 800px) {
+  body {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  body::-webkit-scrollbar {
+    display: none;
+  }
+  .home {
+    background-color: #131b2d;
+    width: 100vw;
+  }
+}
